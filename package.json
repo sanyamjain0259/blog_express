@@ -1,0 +1,23 @@
+{
+  "name": "blog_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines":{
+    "node":"10.15.0",
+    "npm":"6.4.1"
+  },
+  "scripts": {
+    "Start":"node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "pug": "^2.0.3"
+  }
+}
